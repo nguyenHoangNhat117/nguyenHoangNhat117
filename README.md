@@ -60,12 +60,6 @@ A web-based hotel booking system developed as part of a university software deve
   <img src="assets/Screenshot 2026-10-24 153134.png" width="48%" alt="Hotel Project Screenshot 4">
 </p>
 
-**Statistics & Reporting**
-
-<p align="center">
-  <img src="assets/reports.png" width="85%" alt="Hotel Statistics and Reporting Dashboard">
-</p>
-
 [🔗 View Source Code](https://github.com/nguyenHoangNhat117/Group-4-SWP391)
 
 ---
@@ -93,6 +87,12 @@ A desktop application for managing student information, currently being develope
 <p align="center">
   <img src="assets/student-main.png" width="48%" alt="Student Management Main Interface">
   <img src="assets/student-profile.png" width="48%" alt="Student Management Profile Interface">
+</p>
+
+**Statistics & Reporting**
+
+<p align="center">
+  <img src="assets/reports.png" width="85%" alt="Hotel Statistics and Reporting Dashboard">
 </p>
 
 [🔗 View Source Code](https://github.com/nguyenHoangNhat117/PRN212_GROUP4)
