@@ -18,6 +18,15 @@
 - **Tools:** Git, GitHub, Visual Studio
 
 ## Featured Projects
+<p align="center">
+  <img src="assets/Screenshot 2026-10-24 153111.png" width="48%" alt="Project Screenshot 1">
+  <img src="assets/Screenshot 2026-10-24 153118.png" width="48%" alt="Project Screenshot 2">
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-10-24 153127.png" width="48%" alt="Project Screenshot 3">
+  <img src="assets/Screenshot 2026-10-24 153134.png" width="48%" alt="Project Screenshot 4">
+</p>
 
 ### Online Hotel Booking System
 Java-based hotel booking web application.
