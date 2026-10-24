@@ -1,66 +1,120 @@
 
-# Hi there, I'm Hoang Nhat Nguyen 👋
+# Hi there, I'm Nguyen Hoang Nhat 👋
 
-🎓 Software Engineering Student at FPT University, Can Tho Campus.
+### 🎯 Aspiring .NET Software Engineer
 
-💻 Aspiring .NET Software Engineer.
+🎓 Third-year Software Engineering student at **FPT University, Can Tho Campus**.
 
-## About Me
-- Currently a third-year Software Engineering student.
-- Learning C# and .NET application development.
-- Interested in software engineering and database development.
-- Looking for opportunities to gain practical experience.
+💻 Currently focusing on **C# and .NET application development**, with hands-on experience in Java web applications and C# WPF desktop applications through academic projects.
 
-## Technical Skills
-- **Languages:** C#, Java, SQL
-- **Technologies:** .NET, WPF, JSP/Servlet
-- **Database:** Microsoft SQL Server
-- **Tools:** Git, GitHub, Visual Studio
+---
 
-## Featured Projects
+## 👨‍💻 About Me
+
+- 🎓 Studying Software Engineering at FPT University.
+- 💻 Learning C#, .NET, WPF, and SQL Server.
+- 🛠️ Interested in software development, database integration, and application design.
+- 🚀 Seeking a Software Development Internship to gain practical experience.
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | C#, Java, SQL |
+| **Technologies** | .NET, WPF, JSP/Servlet |
+| **Database** | Microsoft SQL Server |
+| **Development Tools** | Git, GitHub, Visual Studio, NetBeans |
+| **Concepts** | OOP, MVVM, Authentication & Authorization |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 1. Online Hotel Booking System
+
+**Project Type:** Academic Group Project
+
+**Tech Stack:** Java, JSP/Servlet, SQL Server, HTML, CSS, JavaScript
+
+**My Role:** Authentication & Reporting Developer
+
+A web-based hotel booking system developed as part of a university software development project.
+
+**My Contributions:**
+- Developed user registration, login, and role-based authorization.
+- Implemented email OTP password recovery.
+- Contributed to statistics and reporting features.
+- Participated in debugging, feature integration, and source code management using Git/GitHub.
+
+#### 📸 Project Screenshots
+
 <p align="center">
-  <img src="assets/Screenshot 2026-10-24 153111.png" width="48%" alt="Project Screenshot 1">
-  <img src="assets/Screenshot 2026-10-24 153118.png" width="48%" alt="Project Screenshot 2">
+  <img src="assets/Screenshot 2026-10-24 153111.png" width="48%" alt="Hotel Project Screenshot 1">
+  <img src="assets/Screenshot 2026-10-24 153118.png" width="48%" alt="Hotel Project Screenshot 2">
 </p>
 
 <p align="center">
-  <img src="assets/Screenshot 2026-10-24 153127.png" width="48%" alt="Project Screenshot 3">
-  <img src="assets/Screenshot 2026-10-24 153134.png" width="48%" alt="Project Screenshot 4">
+  <img src="assets/Screenshot 2026-10-24 153127.png" width="48%" alt="Hotel Project Screenshot 3">
+  <img src="assets/Screenshot 2026-10-24 153134.png" width="48%" alt="Hotel Project Screenshot 4">
 </p>
 
-### Online Hotel Booking System
-Java-based hotel booking web application.
+**Statistics & Reporting**
 
-- Authentication and Authorization
-- Email OTP password recovery
-- Statistics and Reporting
+<p align="center">
+  <img src="assets/reports.png" width="85%" alt="Hotel Statistics and Reporting Dashboard">
+</p>
 
-[View Repository](https://github.com/nguyenHoangNhat117/Group-4-SWP391)
+[🔗 View Source Code](https://github.com/nguyenHoangNhat117/Group-4-SWP391)
 
-### Student Management System (In Progress)
-C# WPF desktop application using SQL Server.
+---
 
-- MVVM-based UI structure
-- SQL Server database connection
-- Student management features under development
+### 🎓 2. Student Management System
 
-[View Repository](https://github.com/nguyenHoangNhat117/PRN212_GROUP4)
+**Status:** In Progress
 
-## Current Focus
-Learning C# and .NET through university coursework and practical projects.
+**Project Type:** Academic Project – PRN212
 
+**Tech Stack:** C#, WPF, .NET, SQL Server
 
-<!--
-**nguyenHoangNhat117/nguyenHoangNhat117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Role:** Application Developer
 
-Here are some ideas to get you started:
+A desktop application for managing student information, currently being developed as part of the PRN212 course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Contributions:**
+- Designed the student management interface using WPF.
+- Organized the source code using Models, Views, and ViewModels.
+- Established database connectivity with SQL Server.
+- Currently developing and testing student management features.
+
+#### 📸 Project Screenshots
+
+<p align="center">
+  <img src="assets/student-main.png" width="48%" alt="Student Management Main Interface">
+  <img src="assets/student-profile.png" width="48%" alt="Student Management Profile Interface">
+</p>
+
+[🔗 View Source Code](https://github.com/nguyenHoangNhat117/PRN212_GROUP4)
+
+---
+
+## 📚 Currently Learning
+
+- C# and .NET application development
+- WPF desktop application development
+- SQL Server database integration
+- Software engineering principles and practices
+
+---
+
+## 📫 Contact
+
+- **Email:** nhatnhce200938@gmail.com
+- **GitHub:** [github.com/nguyenHoangNhat117](https://github.com/nguyenHoangNhat117)
+
+---
+
+<p align="center">
+  <i>Thank you for visiting my GitHub profile!</i>
+</p>
